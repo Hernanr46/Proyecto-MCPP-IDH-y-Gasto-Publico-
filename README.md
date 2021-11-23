@@ -13,6 +13,8 @@ El presente proyecto se encuentra dividido en 4 archivos de trabajos de los cual
 
 - El ultimo archivo realizado en python, es nombrado "Base Poblacion". Este archivo se usara para realizar la descarga de información correspondiente a la pobación colombiana por departamento. Esta información sera tomada desde la pagina Web https://globaldatalab.org.
 
+- Finalmente de unifican estos tres dataset's en una llamado "Base_Unificada" en la cual se realizan las ultimas estimaciones y analisis de datos generando un solo archivo.
+
 - En cuanto al archivo realizado en R studio llamado "ProyectoMCPP", fue realizado con el fin de generar Estadisticas descriptivas y generación de mapas relacionados con el proyecto.
 
 
