@@ -17,5 +17,7 @@ El presente proyecto se encuentra dividido en 4 archivos de trabajos de los cual
 
 - En cuanto al archivo realizado en R studio llamado "ProyectoMCPP", fue realizado con el fin de generar Estadisticas descriptivas y generación de mapas relacionados con el proyecto.
 
+Los archivos generados estaran copiados en el siguiente link https://www.dropbox.com/scl/fi/gv1qagr6url8g4yzoinne/EMPALME-SERIE-PIB-NACIONAL-A-O-BASE2005.xlsx?dl=0&rlkey=5nkmq6nls4xgqgvta7f2tkial
+
 
 
